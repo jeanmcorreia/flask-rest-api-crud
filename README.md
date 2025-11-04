@@ -1,7 +1,7 @@
 # 🚀 Flask REST API CRUD
 
 API REST desenvolvida com **Flask** e **SQLite** e implementando operações completas de **CRUD** (Criar, Ler, Atualizar e Excluir).  
-O projeto foi baseado no tutorial [Python REST API for Beginners]([https://www.youtube.com/watch?v=z3YMz-Gocmw]) e adaptado para fins de aprendizado e portfólio.
+O projeto foi baseado no tutorial [Python REST API for Beginners](https://www.youtube.com/watch?v=z3YMz-Gocmw) e adaptado para fins de aprendizado e portfólio.
 
 ---
 
@@ -16,14 +16,14 @@ O projeto foi baseado no tutorial [Python REST API for Beginners]([https://www.y
 
 ---
 
-## 📖 Sobre o Projeto
+## 📖 [Sobre o Projeto](#-sobre-o-projeto)
 
 Este projeto tem como objetivo consolidar o aprendizado em **desenvolvimento backend com Python**, utilizando o framework **Flask** para construção de uma **API RESTful**.  
 A aplicação implementa as operações CRUD e persistência de dados em um banco de dados **SQLite**, com testes realizados via **Thunder Client**.
 
 ---
 
-## ✨ Funcionalidades
+## ✨ [Funcionalidades](#-funcionalidades)
 
 - 📦 Criação, leitura, atualização e exclusão de registros (CRUD)   
 - 🌐 Rotas RESTful com respostas em JSON  
@@ -32,7 +32,7 @@ A aplicação implementa as operações CRUD e persistência de dados em um banc
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## 🛠 [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 
 - **Linguagem:** Python  
 - **Framework:** Flask  
@@ -42,7 +42,7 @@ A aplicação implementa as operações CRUD e persistência de dados em um banc
 
 ---
 
-## ⚙️ Instalação e Execução
+## ⚙️ [Instalação e Execução](#-instalação-e-execução)
 
 1. **Clonar o repositório:**
    ```bash
@@ -70,7 +70,7 @@ A API estará disponível no servidor local em:
 
 ---
 
-## 🔗 Endpoints da API
+## 🔗 [Endpoints da API](#-endpoints-da-api)
 
 ```markdown
 | Método | Endpoint      | Descrição                       |
@@ -84,7 +84,7 @@ A API estará disponível no servidor local em:
 
 ---
 
-## 🗂 Estrutura do Projeto
+## 🗂 [Estrutura do Projeto](#-estrutura-do-projeto)
 
 ```css
 flask-rest-api-crud/
@@ -95,9 +95,9 @@ flask-rest-api-crud/
 └── .gitignore
 ```
 
-## 🙌 Créditos
+## 🙌 [Créditos](#-créditos)
 
-Projeto baseado no tutorial “Python REST API for Beginners” do canal [Dave Gray]([https://www.youtube.com/@DaveGrayTeachesCode]) · Adaptado e documentado para fins de estudo e portfólio pessoal.
+Projeto baseado no tutorial “Python REST API for Beginners” do canal [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode) · Adaptado e documentado para fins de estudo e portfólio pessoal.
 
 ## 💡 Autor
-🔗 [LinkedIn]([https://www.linkedin.com/in/jeanmarcoscor/])
+🔗 [LinkedIn](https://www.linkedin.com/in/jeanmarcoscor/)
