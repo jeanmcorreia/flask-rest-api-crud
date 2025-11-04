@@ -13,7 +13,6 @@ O projeto foi baseado no tutorial [Python REST API for Beginners]([https://www.y
 - [Endpoints da API](#-endpoints-da-api)
 - [Estrutura do Projeto](#-estrutura-do-projeto)
 - [Créditos](#-créditos)
-- [Licença](#-licença)
 
 ---
 
