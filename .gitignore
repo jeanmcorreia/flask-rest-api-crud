@@ -1,0 +1,99 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.env
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+
+# Python package installer
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Installer logs and caches
+pip-wheel-metadata/
+wheels/
+
+# IDE/editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+*.sqlite
+
+# Secrets and environment files
+.env.local
+.env.*.local
+instance/*.py
+instance/*.sqlite
+instance/*.db
+credentials.json
+
+# Build artifacts
+*.pyc
+*.pyo
+*.pyd
+
+# Packaging
+*.egg
+*.egg-info
+dist/
+build/
+
+# OneDrive / temp sync files (útil porque seu projeto está no OneDrive)
+~$*
+~*.tmp
+*.tmp
+
+# Test/coverage
+.coverage
+htmlcov/
+.coverage.*
+
+# Misc
+*.bak
+*.swp
+*.swo
+# Ambientes virtuais
+.venv/
+.env/
+
+# Cache e arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Banco de dados e arquivos locais
+instance/
+*.db
+*.sqlite3
+
+# Configurações locais do VSCode e sistema
+.vscode/
+.DS_Store
+*.log
+
+# Arquivos de ambiente
+.env
