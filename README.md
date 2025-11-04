@@ -66,7 +66,7 @@ A aplicação implementa as operações CRUD e persistência de dados em um banc
 
 ```markdown
 A API estará disponível no servidor local em:
-👉 `http://localhost:5000/api/users`
+👉 `http://localhost:5000/`
 ```
 
 ---
@@ -90,12 +90,9 @@ A API estará disponível no servidor local em:
 ```css
 flask-rest-api-crud/
 │
-├── app.py
+├── api.py
+├── create_db.py
 ├── requirements.txt
-├── instance/
-├── routes/
-├── models/
-├── venv/
 └── .gitignore
 ```
 
